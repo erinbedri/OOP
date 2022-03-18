@@ -11,3 +11,5 @@ class Hero:
 
     def heal(self, amount):
         self.health += amount
+
+print("test")
